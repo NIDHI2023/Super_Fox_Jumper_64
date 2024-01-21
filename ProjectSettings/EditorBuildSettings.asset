@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: b240504e7a9ec49809413bf4d5fe7d06
+  - enabled: 1
+    path: Assets/LevelSelect.unity
+    guid: 6c6d68a6982524c00b5300ef46ba6ed1
+  - enabled: 1
+    path: Assets/LevelSelect2.unity
+    guid: cbace05e5ecf24464b3d143227ef2940
+  - enabled: 1
+    path: Assets/Scenes/Stage01.unity
+    guid: af30241e37afb43a38dbef35d50d314d
+  - enabled: 1
+    path: Assets/Scenes/Stage02.unity
+    guid: 55287c576f32e4db3ba9f6332a76bd27
+  - enabled: 1
+    path: Assets/Scenes/Stage03.unity
+    guid: c9d7c10785e7143d0937c90c6a33f5e2
+  - enabled: 1
+    path: Assets/Scenes/Stage04.unity
+    guid: 84510607e851e48fab85f0e74aaa0041
+  - enabled: 1
+    path: Assets/Transition 5-6.unity
+    guid: 93d40aae7415a42a18a930ccbc784c14
+  - enabled: 1
+    path: Assets/Scenes/Stage05.unity
+    guid: ea9924415ae4b4e0eac19330667c6db1
+  - enabled: 1
+    path: Assets/Scenes/Stage06.unity
+    guid: 32109857281754392ab19ced487b203f
+  - enabled: 1
+    path: Assets/Stage07.unity
+    guid: 0f2b080d76c884d04a44cfa1d43b440c
+  - enabled: 1
+    path: Assets/Scenes/Stage08.unity
+    guid: 577b41b65850b4361b509acc76e9e359
+  - enabled: 0
+    path: Assets/level0x.unity
+    guid: 255cd378e53d94e6b966a437bbb695a9
+  - enabled: 0
+    path: Assets/Scenes/Level00.unity
+    guid: 48354cd3206364013b0fcf187916c308
+  - enabled: 0
+    path: Assets/Scenes/Level01.unity
+    guid: 604c4c8cdc3824589985a2acd16b8dd4
+  - enabled: 0
+    path: Assets/Scenes/Level02.unity
+    guid: 82a903ea2a0f54c70927970c89173d35
+  - enabled: 0
+    path: Assets/Scenes/Level03.unity
+    guid: 9f822028b775e4f3eb7f9a07753e14fd
+  - enabled: 0
+    path: Assets/BossLevel.unity
+    guid: 4f04515de86b0426ba81140cce6cb930
+  - enabled: 1
+    path: Assets/EndScene.unity
+    guid: 7e5ff2947159c4c5981221fac66b85b5
+  m_configObjects: {}
